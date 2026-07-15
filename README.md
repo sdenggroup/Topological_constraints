@@ -69,6 +69,5 @@ Some programs use the following packages when saving data files:
 
 If you use the codes in this repository, please cite the related paper:
 
-**Topological constraints on second-harmonic generation in essentially noncentric insulators: A two-band model study**
-Yaomin Ren , Xiyue Cheng ,* Hanxiang Mi , and Shuiquan Deng†
-Doi:https://doi.org/10.1103/ptdl-6q13
+Topological constraints on second-harmonic generation in essentially noncentric insulators: A two-band model study, 
+Yaomin Ren, Xiyue Cheng,* Hanxiang Mi, and Shuiquan Deng, Phys. Rev. B, DOI:https://doi.org/10.1103/ptdl-6q13
