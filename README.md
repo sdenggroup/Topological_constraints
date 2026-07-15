@@ -1,4 +1,4 @@
-# TopoSHG_2D
+# TopoConstraints_SHG
 
 This repository contains the numerical codes used in the paper:
 
