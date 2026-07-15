@@ -1,4 +1,4 @@
-# Topological_constraints
+# TopoSHG_2D
 
 This repository contains the numerical codes used in the paper:
 
